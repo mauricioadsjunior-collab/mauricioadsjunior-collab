@@ -1,4 +1,6 @@
-# Olá, eu sou Mauricio 👋
+<h1 align="center"> Olá, eu sou Mauricio 👋 </h1>
+
+---
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 

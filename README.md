@@ -1,6 +1,14 @@
-<h1 align="center"> Olá, eu sou Mauricio 👋 </h1>
+<h1 align="center">Olá, eu sou Mauricio 👋</h1>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauricio-adelino-712a223a3">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mauricioadsjunior@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 

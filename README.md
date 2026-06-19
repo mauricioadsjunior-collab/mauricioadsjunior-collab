@@ -1,61 +1,76 @@
-Olá, eu sou o Mauricio 👋
+# Olá, eu sou Mauricio 👋
 
-Estudante de ADS | Desenvolvedor em formação | Construindo experiência através de projetos acadêmicos
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🚀 Sobre mim
+💻 Desenvolvedor em formação
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades
-- 📚 Atualmente estudando C, HTML, CSS, Git, GitHub e Banco de Dados
-- 🤝 Gosto de aprender através de projetos em grupo e desafios práticos
-- 🎯 Em busca de evolução constante na área de tecnologia
+📍 Recife - PE
 
-💻 Tecnologias
+---
 
-Linguagens e ferramentas
+## 🚀 Sobre mim
 
-C • HTML5 • CSS3 • Git • GitHub • SQL
+Sou estudante de ADS e atualmente estou construindo minha base em desenvolvimento de software através de projetos acadêmicos e estudos práticos.
 
-Atualmente estudando
+Tenho interesse em programação, desenvolvimento de sistemas e tecnologia em geral. Atualmente estou aprofundando meus conhecimentos em lógica de programação, linguagem C, HTML, CSS e Git/GitHub.
 
-Estruturas de Dados • Desenvolvimento Web • Banco de Dados • Versionamento
+Busco evoluir constantemente através de projetos, trabalhos em equipe e experiências que me aproximem do mercado de tecnologia.
 
-🌟 Projetos
+---
 
-📚 Sistema de Biblioteca
+## 🛠 Tecnologias
 
-Projeto desenvolvido em linguagem C para gerenciamento de livros, leitores e empréstimos, utilizando arquivos TXT para persistência de dados.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🌐 Interface Web Responsiva
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Página de cadastro desenvolvida em HTML e CSS com base em protótipos de interface, focando em estruturação e estilização de páginas web.
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🗄️ Projetos Acadêmicos
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Atividades voltadas para modelagem de banco de dados, lógica de programação e desenvolvimento de sistemas.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📈 Objetivos
+---
 
-- Aprimorar minhas habilidades de programação
-- Construir um portfólio sólido durante a graduação
-- Participar de projetos cada vez mais completos
-- Conquistar uma oportunidade de estágio na área de tecnologia
+## 📂 Projetos
 
-💬 Contato
+### 📚 Sistema de Biblioteca
 
-Sempre aberto para aprender, trocar experiências e participar de novos projetos.
+Sistema desenvolvido em C para gerenciamento de biblioteca.
 
-<!--
-**mauricioadsjunior-collab/mauricioadsjunior-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Funcionalidades:
 
-Here are some ideas to get you started:
+- Cadastro de livros
+- Cadastro de leitores
+- Controle de empréstimos
+- Controle de devoluções
+- Relatórios
+- Armazenamento em arquivos TXT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Interface HUI
+
+Projeto acadêmico desenvolvido em HTML e CSS baseado em protótipos Figma.
+
+Funcionalidades:
+
+- Tela de cadastro
+- Formulários
+- Layout responsivo
+- Estilização com CSS
+
+---
+
+## 📊 Estatísticas
+
+![Mauricio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricioadsjunior-collab&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioadsjunior-collab&layout=compact)
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/maurício-adelino-712a223a3
+
+📧 Disponível para networking e colaboração em projetos acadêmicos.

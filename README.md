@@ -10,7 +10,7 @@
 </a>
 </p>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (2/5)
 
 💻 Desenvolvedor em formação
 
@@ -22,7 +22,7 @@
 
 Sou estudante de ADS e atualmente estou construindo minha base em desenvolvimento de software através de projetos acadêmicos e estudos práticos.
 
-Tenho interesse em programação, desenvolvimento de sistemas e tecnologia em geral. Atualmente estou aprofundando meus conhecimentos em lógica de programação, linguagem C, HTML, CSS e Git/GitHub.
+Tenho interesse em programação, desenvolvimento de sistemas e tecnologia em geral. Atualmente estou aprofundando meus conhecimentos em lógica de programação, linguagem C, java, SQL, HTML, CSS e Git/GitHub.
 
 Busco evoluir constantemente através de projetos, trabalhos em equipe e experiências que me aproximem do mercado de tecnologia.
 

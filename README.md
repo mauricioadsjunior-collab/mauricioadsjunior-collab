@@ -74,4 +74,4 @@ Projeto desenvolvido em grupo como parte da Residência Tecnológica do curso.
 
 ---
 
-<p align="center"><sub>Feito com 💙 por Mauricio Adelino</sub></p>
+<p align="center"><sub>Feito por Mauricio Adelino 😴</sub></p>
